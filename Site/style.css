@@ -1,0 +1,226 @@
+.retangulo {
+position: absolute;
+width: 1480px;
+height: 224px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0.291667) 65.62%, rgba(0, 0, 0, 0.291667) 70.83%, rgba(0, 0, 0, 0) 100%);
+}
+
+.logo {
+position: absolute;
+width: 180px;
+height: 140px;
+left: 10px;
+top: 15px;
+background: url(Dojo_Kenjutsu-removebg-preview);
+}
+
+.titulo {
+position: absolute;
+width: 405px;
+height: 60px;
+left: 530px;
+top: 69px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 60px;
+display: flex;
+align-items: center;
+text-align: center;
+color: white;
+}
+
+.imagem1 {
+position: absolute;
+width: 1480px;
+height: 3000px;
+left: 0px;
+top: 0px;
+background: url(image.png);
+}
+
+.texto1 {
+position: absolute;
+width: 479px;
+height: 391px;
+left: 149px;
+top: 353px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000
+}
+
+.txtlg {
+position: absolute;
+width: 573px;
+height: 460px;
+left: 525px;
+top: 309px;
+background: url(.png);
+border-radius: 26px;
+}
+
+.txtlg2 {
+position: absolute;
+width: 569px;
+height: 448px;
+left: 86px;
+top: 909px;
+background: url(.png);
+}
+
+.texto2 {
+position: absolute;
+width: 630px;
+height: 359px;
+left: 558px;
+top: 998px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+
+.botão {
+position: absolute;
+width: 250px;
+height: 150px;
+left: 595px;
+top: 1618px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+background-color: #00000000;
+}
+
+.icon {
+position: absolute;
+width: 160px;
+height: 157px;
+left: 628px;
+top: 1792px;
+}
+
+.texto3 {
+position: absolute;
+width: 690px;
+height: 273px;
+left: 386px;
+top: 1871px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+
+.retangulo2 {
+position: absolute;
+width: 1485px;
+height: 544px;
+left: -4px;
+top: 2475px;
+background: #000000;
+}
+
+.bola1 {
+position: absolute;
+width: 61px;
+height: 58px;
+left: 167px;
+top: 2521px;
+background: #FFFFFF;
+}
+
+.bola2 {
+position: absolute;
+width: 61px;
+height: 58px;
+left: 167px;
+top: 2674px;
+background: #FFFFFF;
+}
+
+.bola3 {
+position: absolute;
+width: 61px;
+height: 58px;
+left: 167px;
+top: 2827px;
+background: #FFFFFF;
+}
+
+.tel {
+position: absolute;
+width: 300px;
+height: 30px;
+left: 250px;
+top: 2688px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+.icon2 {
+position: absolute;
+width: 107px;
+height: 101px;
+left: 246px;
+top: 2805px;
+}
+
+.insta {
+position: absolute;
+width: 300px;
+height: 93px;
+left: 371px;
+top: 2813px;
+}
+
+.loc {
+position: absolute;
+width: 500px;
+height: 100px;
+left: 246px;
+top: 2509px;
+font-family: 'Livvic';
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+text-decoration-line: underline;
+color: #FFFFFF;
+}
